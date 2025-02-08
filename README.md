@@ -1,16 +1,43 @@
-## Hi there 👋
+👋🏻 I'm Aryan,
+a developer with broad webdev knowledge who specializes in full stack solutions.
 
-<!--
-**ary4nsinha/ary4nsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table align="center"><tr><td align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ary4nsinha&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ary4nsinha&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</td>
+<td align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ary4nsinha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>
+
+---
+
+## ⚙ Working with...
+- React (Nextjs)
+- Python
+- Tensorflow
+- PostgreSQL
+- Railway
+- GCP 
+
+## 🛠 Familiar with (though no expert in)...
+
+- JavaScript
+- TypeScript
+- TailwindCSS
+- Java (Spring Boot)
+
+## Learning
+
+- _All of the above; it never stops!_
+
+## Other stuff
+
+For details on my work history,
+please check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aryannsinha/)
