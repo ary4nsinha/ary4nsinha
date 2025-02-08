@@ -33,11 +33,5 @@ a developer with broad webdev knowledge who specializes in full stack solutions.
 - TailwindCSS
 - Java (Spring Boot)
 
-## Learning
-
-- _All of the above; it never stops!_
-
-## Other stuff
-
 For details on my work history,
 please check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aryannsinha/)
