@@ -1,5 +1,5 @@
 👋🏻 I'm Aryan,
-a developer with broad webdev knowledge who specializes in full stack solutions.
+a developer with broad webdev knowledge who specializes in building full stack solutions.
 
 ---
 
