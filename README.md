@@ -28,7 +28,6 @@ a developer with broad webdev knowledge who specializes in building full stack s
 
 ## 🛠 Familiar with (though no expert in)...
 
-- JavaScript
 - TypeScript
 - TailwindCSS
 - Java (Spring Boot)
