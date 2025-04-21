@@ -1,36 +1,16 @@
-👋🏻 I'm Aryan,
-a developer with broad webdev knowledge who specializes in building full stack solutions.
+# Aryan Sinha
 
----
+I write code that delivers—clean, functional, and ready to ship. Proficient in React, Python, TensorFlow, and SQL, I build solutions that people use and enjoy.
 
-<table align="center"><tr><td align="center">
+## Tech Stack
+- **React**: Spinning up UIs faster than you can say "all of frontend is over-engineered slop"
+- **Python**: Scripts and logic that don’t choke on a missing `__init__.py`.
+- **TensorFlow**: Training models without summoning NaN demons.
+- **SQL**: Queries so optimized, they’d make a DBA weep.
+- **Java**: Only when I’m stuck in legacy purgatory.
 
-[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ary4nsinha&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+## About Me
+- I like to read deep into subjects, ideas and systems.
+- Driven by challenges, I’m all about delivering results that hold up.
 
-[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ary4nsinha&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</td>
-<td align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ary4nsinha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</td></tr></table>
-
----
-
-## ⚙ Working with...
-- React (Nextjs)
-- Python
-- Tensorflow
-- PostgreSQL
-- Railway
-- GCP 
-
-## 🛠 Familiar with (though no expert in)...
-
-- TypeScript
-- TailwindCSS
-- Java (Spring Boot)
-
-For details on my work history,
-please check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aryannsinha/)
+Got a project worth building? Check my repos or reach out. Let’s make it happen.
