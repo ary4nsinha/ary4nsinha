@@ -1,6 +1,6 @@
 # Aryan Sinha
 
-I write code that delivers- functional, and ready to ship. Proficient in React, Python, TensorFlow, and SQL, I build solutions that people use and enjoy.
+I write code that delivers- functional, and ready to ship. Proficient in React, Python, TensorFlow, and SQL, I like to build solutions that people use and enjoy.
 
 ## Tech Stack
 - **React**: Spinning up UIs faster than you can say "all of frontend is over-engineered slop"
