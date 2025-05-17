@@ -1,16 +1,15 @@
-# Aryan Sinha
+# "Experience"
+Currently engaged in cross-functional deployment of vaguely useful abstractions through the Institute of Modular Overengineering. Previously a semi-autonomous unit within the Bureau of Recursive Syntax and Contextual Reinvention. Once led a scrum of rogue React components into semantic compliance.
+---
+# Ongoing Research Areas
 
-I write code that delivers- functional, and ready to ship. Proficient in React, Python, TensorFlow, and SQL, I like to build solutions that people use and enjoy.
-
-## Tech Stack
-- **React**: Spinning up UIs faster than you can say "all of frontend is over-engineered slop"
-- **Python**: Scripts and logic that don’t choke on a missing `__init__.py`.
-- **TensorFlow**: Training models without summoning NaN demons.
-- **SQL**: Queries so optimized, they’d make a DBA weep.
-- **Java**: Only when I’m stuck in legacy purgatory.
-
+- Aggressively componentized emotional state management (React, but make it existential)
+- Trying to learn how machines learn, without accidentally achieving sentience
+- SQL incantations that SELECT inner peace FROM chaos
+- Pythonic codebases where indentation is sacred and bugs are hunted with reverence
+---
 ## About Me
-- I like to read deep into subjects, ideas and systems.
-- Driven by challenges, I’m all about delivering results that hold up.
+I build things. Sometimes they even work.
+If your project needs results that are real and poetic in complexity, check the repos.
 
-Got a project worth building? Check my repos or reach out. Let’s make it happen.
+Doing all this until the day I can adopt the bear hibernation model: six months of deep rest, six months of focused productivity, zero emails throughout.
