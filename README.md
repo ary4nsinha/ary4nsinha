@@ -6,7 +6,6 @@ Currently engaged in cross-functional deployment of vaguely useful abstractions 
 - Aggressively componentized emotional state management (React, but make it existential)
 - Trying to learn how machines learn, without accidentally achieving sentience
 - SQL incantations that SELECT inner peace FROM chaos
-- Pythonic codebases where indentation is sacred and bugs are hunted with reverence
 
 ## About Me
 I build things. Sometimes they even work.
