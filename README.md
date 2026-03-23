@@ -9,6 +9,6 @@ Currently engaged in cross-functional deployment of vaguely useful abstractions 
 
 ## About Me
 Trying to build products that people enjoy using.
-If your project needs results that are real and poetic in complexity, check the repos.
+If your project needs results that are real and poetic in complexity, drop an email!
 
 Doing all this until the day I can adopt the bear hibernation model: six months of deep rest, six months of focused productivity, zero emails throughout.
